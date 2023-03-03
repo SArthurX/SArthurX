@@ -42,6 +42,7 @@
 
 [![MY GitHub stats](https://github-readme-stats.vercel.app/api?username=SArthurX&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/SArthurX/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=SArthurX&theme=prussian)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SArthurX&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=SArthurX&theme=react)](https://github.com/SArthurX/github-readme-activity-graph)
 
 <!--
