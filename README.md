@@ -37,7 +37,7 @@
 
 [![aws](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](#)
 
--->
+
 
 [Website](sarthurx.github.io)
 
@@ -45,7 +45,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=SArthurX&theme=prussian)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SArthurX&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SArthurX&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<!--
+
 **SArthurX/SArthurX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
