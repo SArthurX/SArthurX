@@ -1,12 +1,9 @@
 <h1 align="center">
-  這裡不是烏托邦
+  <a href="https://sarthurx.github.io">
+    這裡不是烏托邦
+  </a>
 </h1>
 
-<p align="center">
-  <a href="https://sarthurx.github.io">
-    <img src="img/uni.gif" width="256" alt="Block Hole"/>
-  </a>
-</p>
 
 
 <!--
