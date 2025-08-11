@@ -3,7 +3,7 @@
  src="https://mymodernmet.com/wp/wp-content/uploads/2019/10/nasa-black-hole-visualization-1.gif" />
 
 ### 🌟 About Me
-- 🎓 **Electronics Engineering Student** @ NTUT
+- 👽 I am someone in this world.
 - 🔭 Currently learning **C**, and **Linux** , among other..
 - 💻 Exploring **Linux Kernel**, **Embedded**, and **RISC-V** everyday..
 - 🔌 Owns multiple development boards.
@@ -14,3 +14,4 @@
 ---
 
 > We should consider every day lost on which we have not danced at least once. – Friedrich Nietzsche
+
