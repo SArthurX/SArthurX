@@ -21,7 +21,7 @@
 * Logitech Lift (for business)
 
 ### 🛹 Skateboard
-* GX1000 Be In Here "With Us" (Deck)
+* GX1000 Be In Here "With Us" 8.375 (Deck)
 * Independent (Trucks)
 * Bronson (Bearing)
 * Spitfire (Wheels)
@@ -43,5 +43,6 @@
 ---
 
 > We should consider every day lost on which we have not danced at least once. – Friedrich Nietzsche
+
 
 
