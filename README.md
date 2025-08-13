@@ -1,4 +1,4 @@
-## Hi 👋, I'm Saxon
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DejaVu+Sans+Mono&pause=1000&color=55FF55&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Saxon)](https://git.io/typing-svg)
 <img align="right" alt="GIF"  width="480" 
  src="https://mymodernmet.com/wp/wp-content/uploads/2019/10/nasa-black-hole-visualization-1.gif" />
 
@@ -43,6 +43,7 @@
 ---
 
 > We should consider every day lost on which we have not danced at least once. – Friedrich Nietzsche
+
 
 
 
