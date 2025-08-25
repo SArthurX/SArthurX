@@ -34,6 +34,8 @@
 * Package manager
    * Nix-Darwin (Mac)
    * Pacman (Arch)
+* Terminal
+   * Ghostty
 * Shell
    * Zsh
 * Input Method Engine
@@ -43,6 +45,7 @@
 ---
 
 > We should consider every day lost on which we have not danced at least once. – Friedrich Nietzsche
+
 
 
 
