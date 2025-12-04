@@ -40,13 +40,12 @@
    * Zsh
 * Input Method Engine
    * Rime
+
+<img align="right" alt="GIF" 
+ src="https://count.getloli.com/@SArthurX?name=SArthurX&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" /><br clear="all" />
+
 </details>
 
 ---
 
 > We should consider every day lost on which we have not danced at least once. – Friedrich Nietzsche
-
-
-
-
-
