@@ -9,7 +9,7 @@
 - 🔌 Owns multiple development boards.
 - 🐧 Passionate about **Linux** (I use Arch btw..)
 - ❤️ Active in **Open Source Communities**(Not really for now..)
-- ⚡ Fun fact: I FUCKING SUCK AT SKATEBOARDING
+- 👀 Fun fact: I FUCKING SUCK AT SKATEBOARDING
 
 <details>
   <summary>some detail about me..</summary>
@@ -47,5 +47,6 @@
 </details>
 
 ---
+
 
 > We should consider every day lost on which we have not danced at least once. – Friedrich Nietzsche
